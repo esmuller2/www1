@@ -11,3 +11,10 @@ div {
     margin: 20px;
     display: flex;
 }
+
+button {
+    border: none;
+    cursor: pointer;
+    outline: #fff;
+    color: black;
+}
